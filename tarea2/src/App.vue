@@ -3,7 +3,6 @@
     <app-producto></app-producto>
     <app-tarjeta-producto></app-tarjeta-producto>
     <app-pie-pag></app-pie-pag>
-  <router-view/>
 </template>
 
 <script>
